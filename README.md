@@ -1,4 +1,5 @@
 # HumanResources
+Ứng dụng quản lý nguồn nhân lực
 Công nghệ sử dụng: 
 - Back-end: Java core
 
